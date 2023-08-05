@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "siddu",
+      "email": "siddu666696@gmail.com",
+      "password": "Abc@1234",
+      "cart":{},
+      "id": 1
+    },
+    {
+      "name": "madhu",
+      "email": "madhu@gmail.com",
+      "password": "ABCDe@123",
+      "cart":{},
+      "id": 2
+    },
+    {
+      "name": "durga",
+      "email": "durga@gmail.com",
+      "password": "Abcd@123",
+      "cart":{},
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Poco c50",
+      "price": 10000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/3/l/x/-original-imaghmtcmxwgypsk.jpeg?q=90",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Realme c30",
+      "price": 10000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/l4ln8nk0/mobile/p/h/p/-original-imagfggryyzyvhgw.jpeg?q=90",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Poco c55",
+      "price": 10000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=90",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Poco m4",
+      "price": 10000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/l2jcccw0/mobile/i/p/o/-original-imagdu8j9vxscfdh.jpeg?q=90",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Poco c55",
+      "price": 10000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=90",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "iphone",
+      "price": 100000,
+      "image": "https://rukminim1.flixcart.com/image/300/300/l2jcccw0/mobile/i/p/o/-original-imagdu8j9vxscfdh.jpeg?q=90",
+      "quantity": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

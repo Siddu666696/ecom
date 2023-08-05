@@ -1,0 +1,31 @@
+.wrap:hover .hover-zoom{
+    /* transform: scale(1.1); */
+    width: 80%;
+    /* height: 80%; */
+    transition: 0.2s;
+    
+
+}
+.hover-zoom{
+    width: 75%;
+    /* height: 75%; */
+    
+}
+ .wrap:hover .cart-btn{
+    transform: translate(-50%,-50%);
+    transition: 0.5s;
+    visibility: visible;
+
+}
+.cart-btn{
+    position: absolute;
+    z-index: 1;
+    visibility: hidden;
+    margin-top: -10%;
+    /* margin-left: 1%; */
+   
+}
+
+.wrap{
+    overflow: clip;
+}
